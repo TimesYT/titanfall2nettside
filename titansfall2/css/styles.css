@@ -1,0 +1,152 @@
+body{
+    background-color: #0b1b24;
+}
+
+.nav{
+    display: inline-block;
+    align-items: start;
+    position: sticky;
+    margin: auto;
+    border-radius: 10px;
+    border-right: 1px solid white;
+    border-bottom: 2px solid white;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding-right: 10px;
+    padding-left: 5px;
+    padding-top: 5px;
+    height: 80vh;
+    background-color: #0b1b24;
+    width: 20vh;
+}
+
+.button:hover{
+    transition: color .3s;
+    color: aqua;
+}
+
+.textp{
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+.button{
+    color: white;
+    text-decoration: none;
+    margin: auto;
+    text-align: start;
+    margin-top: 20vh;
+    margin-bottom: 20vh;
+    font-size: 5vh;
+    font-family: 'Tektur', sans-serif;
+    font-family: 'Unna', serif;
+}
+
+
+.button:hover{
+    transition: 0.5s;
+    color: aqua;
+}
+
+
+.textbox{
+    position: relative;
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    padding: 10px;
+    width: 50%;
+    top: 50%;
+    margin-top: -2vh;
+}
+
+.textboxc{
+    position: relative;
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    padding: 10px;
+    width: 75%;
+    top: 50%;
+    margin-top: -2vh;
+
+}
+.vid{
+    margin-left: 50vh;
+}
+
+.container-cred{
+    float: right;
+    margin-top: 4rem;
+    width: 40vh;
+    height: 80vh;
+    border-left: 2px solid white;
+    border-top: 2px solid rgb(245, 245, 245);
+    border-bottom: 2px solid white;
+}
+
+.container-cred > img{
+    border-left: 2px solid white;
+    margin-top: -1px;
+}
+
+#ss{
+    text-align: center;
+    margin-top: -90vh;
+    margin-left: 9vh;
+    color:#FFFFFF;
+    font-size: 70px;
+    font-family: 'Tektur', sans-serif;
+    font-family: 'Unna', serif; 
+}
+
+.header{
+    text-align: center;
+    margin-left: 10vh;
+    color:#FFFFFF;
+    font-size: 50px;
+    font-family: 'Tektur', sans-serif;
+    font-family: 'Unna', serif; 
+    
+}   
+
+.header1{
+    text-align: center;
+    margin-top: -90vh;
+    margin-left: 30vh;
+    color:#FFFFFF;
+    font-size: 70px;
+    font-family: 'Tektur', sans-serif;
+    font-family: 'Unna', serif; 
+    
+}   
+
+.menutitle{
+    position: relative;
+    font-family: 'Tektur', sans-serif;
+    font-family: 'Unna', serif;
+    bottom: 0;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    width: 50%;
+    top: 50%;
+}
+
+.pic{
+    float: right;
+    margin-top: 11rem;
+    width: 40vh;
+    height: 80vh;
+}
+
+.container-pis{
+    text-align: center;
+    margin-left: 30vh;
+}
+
+.container-pis > img{
+    width: 30vh;
+    height: 30vh;
+}
